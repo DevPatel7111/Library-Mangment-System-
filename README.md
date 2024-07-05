@@ -17,3 +17,8 @@ The Library Management System backend is designed to manage library resources ef
 
 #Post Request(For Adding User (Student)
   ![Alt text](https://raw.githubusercontent.com/DevPatel7111/Library-Mangment-System-/master/Postman%20Library%20mnag/add%20user%20student%20.png)
+
+#Post Request(For Adding User (Student)
+  ![Alt text](https://raw.githubusercontent.com/DevPatel7111/Library-Mangment-System-/master/Postman%20Library%20mnag/Add%20Admin.png)
+
+  
