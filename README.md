@@ -21,4 +21,12 @@ The Library Management System backend is designed to manage library resources ef
 #Post Request(For Adding User (Admin)
   ![Alt text](https://raw.githubusercontent.com/DevPatel7111/Library-Mangment-System-/master/Postman%20Library%20mnag/Add%20Admin.png)
 
+#Post Request(For Creating transition)
+  ![Alt text](https://github.com/DevPatel7111/Library-Mangment-System-/blob/master/Postman%20Library%20mnag/create%20txn.png?raw=true)
+
+#Get Request(For Filterinh data (book || user ))
+  ![Alt text](https://github.com/DevPatel7111/Library-Mangment-System-/blob/master/Postman%20Library%20mnag/filter%20bookk%20or%20user%20.png?raw=true)
+
+#Put Request(For  returning)
+  ![Alt text](https://raw.githubusercontent.com/DevPatel7111/Library-Mangment-System-/master/Postman%20Library%20mnag/return%20book.png)
   
